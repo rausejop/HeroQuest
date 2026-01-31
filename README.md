@@ -5,22 +5,29 @@ Bienvenido a la colección centralizada de cartas y materiales de Heroquest. Est
 ## 📂 Contenidos de la Wiki
 - [📖 Manual de Instrucciones](./Manual.md) – Reglas básicas y trasfondo.
 
-### 🪄 Hechizos Elementales
-- [🔥 Hechizos de Fuego](./Hechizos_Fuego.md) – Destrucción y valentía.
-- [🪨 Hechizos de Tierra](./Hechizos_Tierra.md) – Resistencia y sanación.
-- [💧 Hechizos de Agua](./Hechizos_Agua.md) – Purificación y control mental.
-- [💨 Hechizos de Aire](./Hechizos_Aire.md) – Velocidad e invocación.
+### 🪄 Magia y Hechicería
+- [🔥 Hechizos de Fuego](./Hechizos_Fuego.md)
+- [🪨 Hechizos de Tierra](./Hechizos_Tierra.md)
+- [💧 Hechizos de Agua](./Hechizos_Agua.md)
+- [💨 Hechizos de Aire](./Hechizos_Aire.md)
+- [✨ Hechizos Especiales (Remake V1)](./Hechizos_Especiales.md)
+- [🌑 Hechizos del Caos](./Hechizos_Caos.md)
 
-### 🌑 Hechizos del Lado Oscuro
-- [🌑 Hechizos del Caos](./Hechizos_Caos.md) – El poder de Zargon y sus secuaces.
+### 🗡️ Héroes y Progresión
+- [🛡️ Nuevos Héroes](./Heroes.md)
+- [🎖️ Habilidades](./Habilidades.md)
+
+### 🗺️ El Mundo de HeroQuest
+- [⚔️ Aventuras](./Aventuras.md)
+- [🪑 Atrezo y Escenografía](./Atrezo.md)
 
 ### ⚔️ Equipamiento y Tesoros
-- [💰 Cartas de Tesoro](./Tesoro.md) – Riquezas y peligros en la mazmorra.
-- [🏆 Artefactos](./Artefactos.md) – Objetos legendarios de gran poder.
-- [⚔️ Equipo de Batalla](./Equipo.md) – Armas y armaduras de la Armería.
+- [💰 Cartas de Tesoro](./Tesoro.md)
+- [🏆 Artefactos](./Artefactos.md)
+- [⚔️ Equipo de Batalla](./Equipo.md)
 
 ### 👹 Bestiario
-- [👹 Cartas de Monstruos](./Monstruos.md) – Estadísticas y tácticas de los enemigos.
+- [👹 Cartas de Monstruos](./Monstruos.md)
 
 ---
 

@@ -45,6 +45,18 @@ La magia del aire es volátil, rápida y poderosa. Se centra en el movimiento ve
 
 ---
 
+### 4. Relámpago (Lightning)
+**Texto de la Carta:**
+> "Este hechizo lanza un rayo que golpea a un enemigo causándole 2 dados de daño de combate. Si el enemigo es adyacente a otro monstruo, el rayo salta infligiendo 1 dado de daño al segundo objetivo."
+
+![Relámpago](Images/hechizos-Relámpago.png)
+
+**Explicación y Reglas:**
+- **Daño en Cadena:** Excelente para atacar a dos enemigos a la vez si están juntos.
+- **Sin Defensa:** Al ser un ataque mágico elemental, el daño se considera directo (aunque siempre consultar la regla específica del reto).
+
+---
+
 ## 💡 Consejos del Mago
 El Aire es para el Mago ofensivo y táctico. El *Genio* es tu "botón del pánico" contra enemigos grandes, mientras que *Viento Veloz* asegura que nunca te quedes atrás en la carrera por el tesoro.
 

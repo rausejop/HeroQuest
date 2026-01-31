@@ -59,5 +59,25 @@ Los enemigos que acechan en las sombras del laberinto. Cada monstruo tiene sus p
 Aprende a reconocer las debilidades. Las **Momias** son lentas pero pegan fuerte; mantén la distancia. Los **Esqueletos** y **Zombis** son fáciles de derrotar, pero suelen aparecer en grandes grupos. ¡No te dejes rodear!
 
 ---
-*Material generado en base a los manuales clásicos y el sistema de juego Heroquest 2021.*
+
+## 👹 Nuevas Criaturas (Remake V1)
+
+### 1. El Minotauro
+- **Estadísticas:** Movimiento 6, Ataque 5, Defensa 4, Cuerpo 6, Mente 2.
+- **Habilidad Especial:** Carga. Si se mueve al menos 3 casillas antes de atacar, tira 1 dado de ataque adicional.
+
+### 2. Hechicero del Caos (Novato/Maestro)
+- **Estadísticas:** Movimiento 6, Ataque 2, Defensa 3, Cuerpo 2-4, Mente 6.
+- **Habilidad:** Puede lanzar 3-6 hechizos del Caos por reto.
+
+### 3. Skaven / Rata Gigante
+- **Skaven:** Movimiento 9, Ataque 3, Defensa 2, Cuerpo 1, Mente 2.
+- **Rata Gigante:** Movimiento 10, Ataque 1, Defensa 1, Cuerpo 1, Mente 1. Suelen aparecer en hordas de 2-4.
+
+### 4. Campeón del Caos
+- **Estadísticas:** Movimiento 6, Ataque 5, Defensa 5, Cuerpo 4, Mente 4.
+- **Habilidad:** Inmune a ciertos hechizos de control mental.
+
+---
+*Material extraído del proyecto HeroQuest Remake V1 (heroquest.es)*
 

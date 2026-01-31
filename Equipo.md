@@ -48,5 +48,25 @@ Armas, armaduras y herramientas que los héroes pueden adquirir en la Armería e
 El primer objetivo de cualquier grupo de héroes debería ser conseguir un **Escudo** y un **Yelmo** para todos los que puedan portarlos. Sobrevivir es más importante que matar rápido en los primeros niveles.
 
 ---
-*Material generado en base a los manuales clásicos y el sistema de juego Heroquest 2021.*
+
+## 🛠️ Equipo Nuevo (Remake V1)
+
+### 1. Látigo (Whip)
+- **Coste:** 150 piezas de oro.
+- **Efecto:** Ataca en diagonal y permite intentar "desarmar" al enemigo (si saca una calavera y el enemigo no saca escudos, el enemigo tira 1 dado menos en su próximo ataque).
+
+### 2. Cimitarra (Scimitar)
+- **Coste:** 350 piezas de oro.
+- **Efecto:** 2 dados de ataque. Permite atacar en diagonal.
+
+### 3. Pistola Ballesta (Crossbow Pistol)
+- **Coste:** 500 piezas de oro.
+- **Efecto:** 2 dados de ataque a distancia. Se puede usar con una sola mano, permitiendo llevar un escudo.
+
+### 4. Hacha Enana (Dwarven Axe)
+- **Coste:** 450 piezas de oro.
+- **Efecto:** 3 dados de ataque. Si la usa un Enano, puede volver a tirar un dado de ataque fallido por turno.
+
+---
+*Material del Remake V1 de HeroQuest.es*
 
